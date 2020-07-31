@@ -4,7 +4,7 @@
 
 2. Go to catkin_ws (cd ..) and build it: catkin_make
 
-3. clone the repository inside the src package: git clone https://github.com/Yopenbey/4-wheeled-robot.git
+3. Clone the repository inside the src package: "git clone https://github.com/Yopenbey/4-wheeled-robot.git". IMPORTANT: The "my_ball" package needs to be at the same level as the "src" package.
 
 4. Go back to catkin_ws and after build it again, source it: source devel/setup.bash
 
